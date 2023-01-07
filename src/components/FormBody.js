@@ -185,7 +185,7 @@ const FormBody = () => {
                             <div className='min-h-[40px] xs:w-[20%] xxl:w-[50px] rounded-l-[10px] border-[1px] border-black flex items-center justify-center'>
                                 <span className='text-lg xs:text-[0.9rem] text-gray-600 font-manrope'>+91</span>
                             </div>
-                            <input placeholder='Number' type={'number'} className="appearance-none xs:w-[80%] w-full border-[1px] border-l-0 rounded-l-none border-black rounded-[10px] p-1 px-[15px] min-h-[40px] h-auto " />
+                            <input placeholder='Number' type={'number'} className="appearance-none xs:w-[80%] xxl:w-full xxxl:w-full border-[1px] border-l-0 rounded-l-none border-black rounded-[10px] p-1 px-[15px] min-h-[40px] h-auto " />
                         </div>
 
                     </div>

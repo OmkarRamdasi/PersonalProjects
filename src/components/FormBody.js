@@ -182,10 +182,10 @@ const FormBody = () => {
                     <div className='flex xs:flex-col sm:flex-col lg:flex-row md:flex-row xl:flex-row xxl:flex-row justify-start'>
                         <input placeholder='Email' type={'email'} className="border-[1px] w-[50%]  xs:w-full sm:w-full border-black rounded-[10px] p-1 m-1 px-[15px]  min-h-[40px] h-auto " />
                         <div className='flex items-center gap-0 w-[50%] xs:w-full sm:w-full lg:w-full xl:w-full p-1'>
-                            <div className='min-h-[40px] xs:w-[15%] xxl:w-[50px] rounded-l-[10px] border-[1px] border-black flex items-center justify-center'>
-                                <span className='text-lg text-gray-600 font-manrope'>+91</span>
+                            <div className='min-h-[40px] xs:w-[20%] xxl:w-[50px] rounded-l-[10px] border-[1px] border-black flex items-center justify-center'>
+                                <span className='text-lg xs:text-[0.9rem] text-gray-600 font-manrope'>+91</span>
                             </div>
-                            <input placeholder='Number' type={'number'} className="appearance-none w-full border-[1px] border-l-0 rounded-l-none border-black rounded-[10px] p-1 px-[15px] min-h-[40px] h-auto " />
+                            <input placeholder='Number' type={'number'} className="appearance-none xs:w-[80%] w-full border-[1px] border-l-0 rounded-l-none border-black rounded-[10px] p-1 px-[15px] min-h-[40px] h-auto " />
                         </div>
 
                     </div>

@@ -19,7 +19,7 @@ const FormHeader = () => {
                     <span className='text-black text-3xl xxxl:text-2xl  sm:text-[1.9rem] xs:text-[1rem] flex items-center'><GiBrickWall /></span>
                     <span className='text-black text-3xl xxxl:text-2xl  sm:text-[1.9rem] xs:text-[1rem] flex items-center'><MdOutlineConstruction /></span>
                 </div>
-                <p className='xxxl:text-2xl xs:text-[0.9rem] sm:text-[1.9rem]  font-semibold text-[#000000cc] font-manrope'>
+                <p className='xxxl:text-2xl xs:text-[0.9rem] sm:text-[1.5rem]  font-semibold text-[#000000cc] font-manrope'>
                     Fill in your requirements and contact details, and we’ll help you connect
                     with the right business!
                 </p>
